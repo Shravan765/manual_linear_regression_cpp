@@ -38,11 +38,16 @@ Returns {0, y} — horizontal line passing through the point.
   
 If two or more unique points are added:  
 Computes and returns the slope A and intercept C using the normal equation.  
+
+---
   
 📂 File Overview  
 linear_regression_manual.c++ – header+implementation of best_fitting_line class  
 
 test.c++ – example usage  
+
+---
+
   
 📄 License  
 MIT License. Free to use, modify, and share.  
