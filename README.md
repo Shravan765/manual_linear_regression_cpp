@@ -40,8 +40,4 @@ linear_regression_manual.c++ – header+implementation of best_fitting_line clas
 
 test.c++ – example usage  
 
----
 
-  
-📄 License  
-MIT License. Free to use, modify, and share.  
