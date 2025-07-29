@@ -1,20 +1,14 @@
-# 🧮 Linear Regression (Normal Equation) in C++
+# Linear Regression (Normal Equation) in C++
 
 This is a lightweight C++ implementation of **linear regression** using the **normal equation**, built entirely from scratch — no external libraries.
 
 It fits a line of the form:
-
 y = Ax + C
-
-yaml
-Copy
-Edit
-
 by minimising the squared error on a given set of training points.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Implements the closed-form solution:  
 θ = (XᵗX)⁻¹ Xᵗy
